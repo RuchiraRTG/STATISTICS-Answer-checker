@@ -29,7 +29,7 @@ export default function StatsCalculator() {
   };
 
   return (
-    <div className="stats-container">
+    <div className="stats-container" >
       <h1>📊 Statistics Calculator</h1>
       <textarea
         placeholder="Enter numbers separated by commas (e.g., 5, 2, 9, 1)"
