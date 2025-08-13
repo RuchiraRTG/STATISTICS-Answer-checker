@@ -2,9 +2,9 @@
   max-width: 700px;
   margin: 40px auto;
   padding: 20px;
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  background: linear-gradient(135deg, #1d7ccf, #1ca1a8e8);
   border-radius: 15px;
-  color: white;
+  color: rgb(2, 0, 0);
   box-shadow: 0 4px 20px rgba(0,0,0,0.2);
   font-family: Arial, sans-serif;
 }
