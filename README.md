@@ -111,7 +111,7 @@ import "./index.css";
   - Ensure `import "./index.css";` exists in `src/main.jsx`.
   - Clear Vite cache (`node_modules/.vite`) and restart `npm run dev` if needed.
 
-## 📜 Scripts
+## 🧪 Scripts
 From `my-react-app`:
 - `npm run dev` – start dev server
 - `npm run build` – production build
